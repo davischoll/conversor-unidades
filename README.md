@@ -5,3 +5,5 @@ Pequeno projeto de conversão de unidades numéricas, para prática, construído
 ### Resultado
 
 Pode ser conferido por aqui: 
+
+![Preview](https://github.com/davischoll/conversor-unidades/blob/master/conversor-unidades.png)
