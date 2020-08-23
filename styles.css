@@ -1,0 +1,17 @@
+.container {
+  margin-top: 40px;
+}
+
+.container h1 {
+  margin-bottom: 20px;
+}
+
+form  .form-group {
+  margin: 1rem;
+}
+
+.igualdade {
+  font-size: xx-large;
+  color: #3f3f3f;
+  padding-top: 0.5rem;
+}
