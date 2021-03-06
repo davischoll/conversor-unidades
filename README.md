@@ -1,6 +1,6 @@
 ## Conversor de Unidades
 
-Pequeno projeto de conversão de unidades numéricas, para prática, construído com [Bootstrap 4.5](https://getbootstrap.com/) e [JQuery](https://jquery.com/).
+Pequeno projeto de conversão de unidades numéricas (Milhas / Quilômetros), para prática, construído com [Bootstrap 4.5](https://getbootstrap.com/) e [JQuery](https://jquery.com/).
 
 ### Resultado
 
